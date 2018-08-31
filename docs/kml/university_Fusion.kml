@@ -1,0 +1,1483 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>university</name>
+		<Style id='Style2-point-1'>
+			<IconStyle>
+				<color>ff0000ff</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://cse.unl.edu/~surge/docs/kml/school.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-point-1-hover'>
+			<IconStyle>
+				<color>ff0000ff</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://cse.unl.edu/~surge/docs/kml/school.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-point-1-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-point-1</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-point-1-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='Style2-line-2'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>800000ff</color>
+				<width>2</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-line-2-hover'>
+			<LineStyle>
+				<color>800000ff</color>
+				<width>2</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-line-2-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-line-2</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-line-2-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='Style2-polygon-3'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f0000ff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-3-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f0000ff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-3-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-3</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-3-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Madras Institute of Technology - MIT Chrompet</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Madras Institute of Technology - MIT Chrompet
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>80.140316,12.948542</coordinates></Point></Placemark>
+		<Placemark>
+			<name>West Bengal University of Technology</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> West Bengal University of Technology
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>88.41744,22.596492</coordinates></Point></Placemark>
+		<Placemark>
+			<name>TIFR Cosmic ray station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> TIFR Cosmic ray station
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>76.663372,11.392178</coordinates></Point></Placemark>
+		<Placemark>
+			<name>University Library</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> University Library
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>78.525515,17.41717</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Law College</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Law College
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>78.525644,17.415843</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Engineering College</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Engineering College
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>78.518451,17.406785</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Department of Physics</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Department of Physics
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>78.529025,17.418472</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Department of Chemistry</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Department of Chemistry
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>78.53027,17.418046</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Department of Bio Chemistry</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Department of Bio Chemistry
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>78.5316,17.417628</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Tagore Auditorium</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Tagore Auditorium
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>78.531248,17.414893</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Indian Institute Of Technology</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Indian Institute Of Technology
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.1893,28.544418</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Building Sciences</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Building Sciences
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>80.229345,12.989867</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Computer Sciences</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Computer Sciences
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>80.22937,12.989453</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Computer Science Department</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Computer Science Department
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>80.229558,12.988999</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Jamia Millia Islamia</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Jamia Millia Islamia
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.280906,28.561397</coordinates></Point></Placemark>
+		<Placemark>
+			<name>K.N.S.PRE. University College</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> K.N.S.PRE. University College
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.635884,13.08889</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Gujarat University</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Gujarat University
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>72.546824,23.03674</coordinates></Point></Placemark>
+		<Placemark>
+			<name>CiSTUP</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> CiSTUP
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.568617,13.013238</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Lovely</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Lovely
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>75.707254,31.260158</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Ansal Institute of Technology</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Ansal Institute of Technology
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.112272,28.431041</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Sushant College of Arts &amp; Architecture</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Sushant College of Arts &amp; Architecture
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.110768,28.431057</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Computer Science Department</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Computer Science Department
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>78.519412,17.407203</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Karnataka State Open University</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Karnataka State Open University
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>76.623623,12.315382</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Kongu engineering college</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Kongu engineering college
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.604,11.272179</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Jawaharlal Nehru Architecture and Fine Arts University</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Jawaharlal Nehru Architecture and Fine Arts University
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>78.455947,17.403009</coordinates></Point></Placemark>
+		<Placemark>
+			<name>JN Tata Auditorium</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> JN Tata Auditorium
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.56808,13.013375</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Innovation Center, SID</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Innovation Center, SID
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.569053,13.012973</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Tamil University</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Tamil University
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>79.093269,10.749635</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Kishor Vaigyanik Protsahan Yojana (KVPY)</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Kishor Vaigyanik Protsahan Yojana (KVPY)
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.568891,13.013042</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>76.490713,15.283182</coordinates></Point></Placemark>
+		<Placemark>
+			<name>LPU</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> LPU
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>75.704619,31.254921</coordinates></Point></Placemark>
+		<Placemark>
+			<name>UBDT College of Engineering</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> UBDT College of Engineering
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>75.917951,14.45252</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Christ University Audi Block</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Christ University Audi Block
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.605892,12.936042</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Jai Narain Vyas University</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Jai Narain Vyas University
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>73.016609,26.248195</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Bangalore Institute of Dental Sciences</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Bangalore Institute of Dental Sciences
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.596839,12.944208</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Janta College</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Janta College
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>79.174225,26.662708</coordinates></Point></Placemark>
+		<Placemark>
+			<name>M.J.College</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> M.J.College
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>75.554631,21.000087</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Karunya University</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Karunya University
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>76.744182,10.935904</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Academic Block</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Academic Block
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>93.742932,27.129735</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Agricultural Department and CMS (Centre of Management Studies)</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Agricultural Department and CMS (Centre of Management Studies)
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>93.743731,27.131721</coordinates></Point></Placemark>
+		<Placemark>
+			<name>IT / EIE department</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> IT / EIE department
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>79.853584,12.011899</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Mechanical deptt.</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Mechanical deptt.
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>93.743105,27.130701</coordinates></Point></Placemark>
+		<Placemark>
+			<name>University of Calicut</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> University of Calicut
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>75.890067,11.137547</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Sant Gadage Baba University</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Sant Gadage Baba University
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.798934,20.940277</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Kumaun</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Kumaun
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>79.458443,29.382484</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Satish Dhawan Auditorium</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Satish Dhawan Auditorium
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.569441,13.013814</coordinates></Point></Placemark>
+		<Placemark>
+			<name>IIM Kozhikode</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> IIM Kozhikode
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>75.872078,11.29774</coordinates></Point></Placemark>
+		<Placemark>
+			<name>JCB block</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> JCB block
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.058509,29.025457</coordinates></Point></Placemark>
+		<Placemark>
+			<name>D.C.R.U.S.T</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> D.C.R.U.S.T
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.057929,29.025133</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Christ University Faculty Of Engineering</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Christ University Faculty Of Engineering
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.43832,12.862874</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Computer Centre</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Computer Centre
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>80.229053,12.989074</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Maulana Abul Kalam Azad Institute of Asian Studies</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Maulana Abul Kalam Azad Institute of Asian Studies
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>88.413638,22.570811</coordinates></Point></Placemark>
+		<Placemark>
+			<name>International School of Business &amp; Media</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> International School of Business &amp; Media
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>88.413689,22.571115</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Rabindra Bharati University</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Rabindra Bharati University
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>88.42524,22.580376</coordinates></Point></Placemark>
+		<Placemark>
+			<name>North Bengal University</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> North Bengal University
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>88.425087,22.580635</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Burdwan University - Kolkata Office</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Burdwan University - Kolkata Office
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>88.424991,22.580794</coordinates></Point></Placemark>
+		<Placemark>
+			<name>NITTTR Residential Campus</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> NITTTR Residential Campus
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>88.430286,22.576878</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Aliah University</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Aliah University
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>88.432737,22.576544</coordinates></Point></Placemark>
+		<Placemark>
+			<name>CIT Kokrajhar</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> CIT Kokrajhar
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>90.302061,26.477398</coordinates></Point></Placemark>
+		<Placemark>
+			<name>CSE Block, CIT Kokrajhar</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> CSE Block, CIT Kokrajhar
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>90.302833,26.476956</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Hostel No.2, CIT Kokrajhar</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Hostel No.2, CIT Kokrajhar
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>90.300473,26.477705</coordinates></Point></Placemark>
+		<Placemark>
+			<name>National Institute of Rural Development</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> National Institute of Rural Development
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>78.403699,17.312836</coordinates></Point></Placemark>
+		<Placemark>
+			<name>AMR-APARD</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> AMR-APARD
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>78.403388,17.31802</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Srishti school of art, design and technology</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Srishti school of art, design and technology
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.576173,13.107543</coordinates></Point></Placemark>
+		<Placemark>
+			<name>N4, Srishti Institute of Art, Design &amp; Technology</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> N4, Srishti Institute of Art, Design &amp; Technology
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.573634,13.108381</coordinates></Point></Placemark>
+		<Placemark>
+			<name>N2, Srishti school of art,design and technology</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> N2, Srishti school of art,design and technology
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.577023,13.107073</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Vardhman Mahaveer Open University</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Vardhman Mahaveer Open University
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>75.811193,26.876098</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Kannur</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Kannur
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>75.376171,11.985979</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Indian institute of integrated medicine</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Indian institute of integrated medicine
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>74.799902,34.032787</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Karshika Gaveshanakendram</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Karshika Gaveshanakendram
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>76.12041,11.089522</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Jamia Hamdard</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Jamia Hamdard
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.250292,28.515381</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>76.841176,16.702906</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Bharath University</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Bharath University
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>80.140998,12.908218</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Sri Sathya Sai Institute of Higher Learning</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Sri Sathya Sai Institute of Higher Learning
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.809226,14.163172</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>75.422594,29.045286</coordinates></Point></Placemark>
+		<Placemark>
+			<name>RUNGTA COLLEGE OF ENGINEERING AND TECHNOLOGY BHILAI</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> RUNGTA COLLEGE OF ENGINEERING AND TECHNOLOGY BHILAI
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>81.346399,21.234092</coordinates></Point></Placemark>
+		<Placemark>
+			<name>D.S.P INTER COLLEGE NAGALA GAVE</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> D.S.P INTER COLLEGE NAGALA GAVE
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>78.66843,27.358505</coordinates></Point></Placemark>
+		<Placemark>
+			<name>TODI SINGH INTER COLLEGE NAGALA GAVE</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> TODI SINGH INTER COLLEGE NAGALA GAVE
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>78.663173,27.357533</coordinates></Point></Placemark>
+		<Placemark>
+			<name>University Ground</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> University Ground
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>79.09504,21.156416</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Lakshminarayan Institute of Technology</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Lakshminarayan Institute of Technology
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>79.048586,21.144987</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Smiore Composite PU College</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Smiore Composite PU College
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>76.380751,15.18868</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Punjabi University Patiala</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Punjabi University Patiala
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>76.455127,30.356898</coordinates></Point></Placemark>
+		<Placemark>
+			<name>NEHU</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> NEHU
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>91.899662,25.611817</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Agriculture University</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Agriculture University
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>76.810877,8.981129</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Tezpur University Jonai Campus (to-be)</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Tezpur University Jonai Campus (to-be)
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>95.060077,27.761593</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Administrative Building-II</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Administrative Building-II
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>92.832697,26.698591</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Department of Chemistry</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Department of Chemistry
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>92.834146,26.69897</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Indian Statistical Institute, NE Centre</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Indian Statistical Institute, NE Centre
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>92.833304,26.699205</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Department of Energy</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Department of Energy
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>92.834881,26.699329</coordinates></Point></Placemark>
+		<Placemark>
+			<name>School of Management Sciences</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> School of Management Sciences
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>92.828595,26.702795</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Electronics and Communication Engineering</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Electronics and Communication Engineering
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>92.828139,26.704237</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Central Workshop</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Central Workshop
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>92.826095,26.703332</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Food Engineering &amp; Technology</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Food Engineering &amp; Technology
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>92.82573,26.702977</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Mechanical Engineering</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Mechanical Engineering
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>92.826594,26.703705</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Computer Science Engineering</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Computer Science Engineering
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>92.827269,26.704424</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Civil Engineering</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Civil Engineering
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>92.825317,26.702546</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Administrative Building-I</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Administrative Building-I
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>92.830628,26.699613</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Mass Communication &amp; Journalism</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Mass Communication &amp; Journalism
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>92.831743,26.698175</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Environmental Sciences</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Environmental Sciences
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>92.832076,26.697044</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Molecular Biology &amp; Biotechnology</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Molecular Biology &amp; Biotechnology
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>92.831497,26.697111</coordinates></Point></Placemark>
+		<Placemark>
+			<name>FFE IT - Foundation for excellence india trust</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> FFE IT - Foundation for excellence india trust
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.637495,12.980141</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Tamil University</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Tamil University
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>79.097589,10.736917</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Jain Vishva Bharathi, Ladnun</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Jain Vishva Bharathi, Ladnun
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>74.392223,27.651785</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Central University of Kerala</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Central University of Kerala
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>75.096774,12.391934</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Maulana Azad University, Jodhpur</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Maulana Azad University, Jodhpur
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>72.987252,26.274049</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Pandit Deendayal Petroleum Univeristy</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Pandit Deendayal Petroleum Univeristy
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>72.663011,23.154982</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Government Arts College</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Government Arts College
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>78.798301,10.768935</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Visvesvaraya Technological University</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Visvesvaraya Technological University
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>74.46335,15.777781</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Computer Society of india</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Computer Society of india
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>78.791188,10.778066</coordinates></Point></Placemark>
+		<Placemark>
+			<name>The Indian Institute of Metals</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> The Indian Institute of Metals
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>78.791311,10.777943</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Tantia University</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Tantia University
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>73.937061,29.869991</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Annai Mathammal Sheela Engineering College</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Annai Mathammal Sheela Engineering College
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>78.307721,11.15779</coordinates></Point></Placemark>
+		<Placemark>
+			<name>kerala veternery university wayanad</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> kerala veternery university wayanad
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>76.02559,11.533241</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Maharashtra Engineering Research Institute</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Maharashtra Engineering Research Institute
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>73.801066,20.031106</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Kerala Technological University</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Kerala Technological University
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>76.905896,8.541479</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Office of Intellectual Property Rights and Techonology Licensing (IPTeL)</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Office of Intellectual Property Rights and Techonology Licensing (IPTeL)
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.569088,13.013279</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Choksi Hall</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Choksi Hall
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.566503,13.014814</coordinates></Point></Placemark>
+		<Placemark>
+			<name>ANU PG Campus</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> ANU PG Campus
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>80.043736,15.485124</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Alagappa University</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Alagappa University
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>78.794683,10.078677</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Chitkara University Rajpura Punjab</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Chitkara University Rajpura Punjab
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>76.659507,30.51763</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Punjabi University Patiala</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Punjabi University Patiala
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>76.455127,30.356898</coordinates></Point></Placemark>
+		<Placemark>
+			<name>IGNOU</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> IGNOU
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>72.395714,23.60732</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Presidency University</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Presidency University
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.603638,12.965588</coordinates></Point></Placemark>
+		<Placemark>
+			<name>BBD</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> BBD
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>81.057181,26.887687</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Ajatshatru Residence</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Ajatshatru Residence
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>85.423295,25.01976</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Kannur University</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Kannur University
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>75.374649,11.867742</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Tamilnadu Teachers Education University</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Tamilnadu Teachers Education University
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>80.236466,12.915701</coordinates></Point></Placemark>
+		<Placemark>
+			<name>A D Joshi Junior College</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> A D Joshi Junior College
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>75.909748,17.630605</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Indian Model School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Indian Model School
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>75.910134,17.630585</coordinates></Point></Placemark>
+		<Placemark>
+			<name>पंडित रवि शंकर शुकला विश्वविघालय</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> पंडित रवि शंकर शुकला विश्वविघालय
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>81.597432,21.246864</coordinates></Point></Placemark>
+		<Placemark>
+			<name>indian institute of management</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> indian institute of management
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>81.658582,21.163762</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Ayush and health sciences university</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Ayush and health sciences university
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>81.60486,21.246037</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Raipur institute of technology</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Raipur institute of technology
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>81.801366,21.226224</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Hidaya tullah National law University</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Hidaya tullah National law University
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>81.75907,21.106977</coordinates></Point></Placemark>
+		<Placemark>
+			<name>kushabhau thakre patrakarita</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> kushabhau thakre patrakarita
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>81.624412,21.17211</coordinates></Point></Placemark>
+		<Placemark>
+			<name>indira gandhi agricultural university</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> indira gandhi agricultural university
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>81.704144,21.236616</coordinates></Point></Placemark>
+		<Placemark>
+			<name>govrnment dudhari bajarang girls post graduate autonomous colleg</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> govrnment dudhari bajarang girls post graduate autonomous colleg
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>81.636753,21.232319</coordinates></Point></Placemark>
+		<Placemark>
+			<name>ITM University</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> ITM University
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>81.646089,21.249637</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Gujrat Vidhyapeeth</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Gujrat Vidhyapeeth
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>72.569295,23.044185</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>80.741669,16.510417</coordinates></Point></Placemark>
+		<Placemark>
+			<name>DDU</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> DDU
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>72.88138,22.679372</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Ravenshaw University</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Ravenshaw University
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>85.895115,20.463445</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Department of Electrical Engineering</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Department of Electrical Engineering
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>80.230688,12.988714</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Bundelkhand university</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Bundelkhand university
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>78.609738,25.453054</coordinates></Point></Placemark>
+		<Placemark>
+			<name>MG University Regional Center</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> MG University Regional Center
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>76.301765,10.017881</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Adikavi Nannaya University</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Adikavi Nannaya University
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>81.873346,17.065714</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Utkala Sangita Mahavidyalaya</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Utkala Sangita Mahavidyalaya
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>85.833347,20.274081</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Defence Institute of Advanced Technology DIAT</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Defence Institute of Advanced Technology DIAT
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>73.758703,18.424238</coordinates></Point></Placemark>
+		<Placemark>
+			<name>FED BLOCK</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> FED BLOCK
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>80.621619,16.441245</coordinates></Point></Placemark>
+		<Placemark>
+			<name>St. Joseph's Convent School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> St. Joseph's Convent School
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>75.553819,20.997018</coordinates></Point></Placemark>
+		<Placemark>
+			<name>ITER</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> ITER
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>85.80003,20.250297</coordinates></Point></Placemark>
+		<Placemark>
+			<name>IIT Madras</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> IIT Madras
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>80.233679,12.991477</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> <br>
+<b>name:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>72.663011,23.154982</coordinates></Point></Placemark>
+	</Document>
+</kml>

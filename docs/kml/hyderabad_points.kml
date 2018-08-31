@@ -1,0 +1,4698 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>hyderabad_hospital</name>
+		<Style id='Style2-point-1'>
+			<IconStyle>
+				<color>ff00ff55</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://cse.unl.edu/~surge/docs/kml/hospital.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-point-1-hover'>
+			<IconStyle>
+				<color>ff00ff55</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://cse.unl.edu/~surge/docs/kml/hospital.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-point-1-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-point-1</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-point-1-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Matpathy Clinic</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Matpathy Clinic<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.392201,17.406849</coordinates></Point></Placemark>
+		<Placemark>
+			<name>SARASWATHI NURSING HOME</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> SARASWATHI NURSING HOME<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.391611,17.416022</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Arogyasree Health care trust</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Arogyasree Health care trust<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.393732,17.430174</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Image Hospitals</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Image Hospitals<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.386075,17.444434</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Vikram Hospitals</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Vikram Hospitals<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.391728,17.440676</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Arogya</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Arogya<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.348116,17.446307</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Ambicare Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Ambicare Hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.364084,17.453518</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Apoolo Clinic</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Apoolo Clinic<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.366452,17.45952</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Leaf Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Leaf Hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.367359,17.463453</coordinates></Point></Placemark>
+		<Placemark>
+			<name>KIMS Hospitals</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> KIMS Hospitals<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.367736,17.466327</coordinates></Point></Placemark>
+		<Placemark>
+			<name>haritha hospitals</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> haritha hospitals<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.366058,17.469602</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Anupama Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Anupama Hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.390317,17.485715</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Vanaja Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Vanaja Hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.327577,17.492186</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Happy Children's Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Happy Children's Hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.327984,17.492859</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Vasan Eye Care Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Vasan Eye Care Hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.332378,17.495525</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Archana Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Archana Hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.337456,17.496054</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Raja Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Raja Hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.347263,17.49416</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Cygnus</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Cygnus<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.39026,17.497573</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> <br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.391282,17.498108</coordinates></Point></Placemark>
+		<Placemark>
+			<name>RELIEF HOSPITAL</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> RELIEF HOSPITAL<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.416165,17.398382</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Rahmat Ali hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Rahmat Ali hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.485988,17.367227</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Surojini Devi Eye Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Surojini Devi Eye Hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.444797,17.399036</coordinates></Point></Placemark>
+		<Placemark>
+			<name>The crescent hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> The crescent hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.445814,17.398519</coordinates></Point></Placemark>
+		<Placemark>
+			<name>ayurvedic clinic</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> ayurvedic clinic<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.448595,17.398766</coordinates></Point></Placemark>
+		<Placemark>
+			<name>MNJ Cancer Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> MNJ Cancer Hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.462068,17.398847</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Krishna Children Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Krishna Children Hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.46253,17.402133</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Fernandez Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Fernandez Hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.479183,17.392488</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Appolo Emergency Hospital, Hyderguda</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Appolo Emergency Hospital, Hyderguda<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.479198,17.399633</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Old Apollo Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Old Apollo Hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.481411,17.398559</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> <br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.53721,17.334881</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Area Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Area Hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.564004,17.329246</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Healthcare Hospitals</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Healthcare Hospitals<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.549763,17.345698</coordinates></Point></Placemark>
+		<Placemark>
+			<name>OXYGEN AND Medicity Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> OXYGEN AND Medicity Hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.557641,17.341672</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Amma Eye Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Amma Eye Hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.557794,17.341588</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Rainbow children Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Rainbow children Hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.558809,17.341816</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Orange Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Orange Hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.553815,17.344906</coordinates></Point></Placemark>
+		<Placemark>
+			<name>hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.554258,17.352677</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Lakshmi Childrens Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Lakshmi Childrens Hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.530189,17.368831</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> <br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.510425,17.394046</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Omni Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Omni Hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.538748,17.368478</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Ozone Hospitals</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Ozone Hospitals<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.544958,17.35934</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Omega Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Omega Hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.424031,17.413698</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Indo American Cancer Institute and Research Centre</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Indo American Cancer Institute and Research Centre<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.429751,17.417344</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Blood Bank</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Blood Bank<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.413994,17.424921</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Deepthi Diagnostics</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Deepthi Diagnostics<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.440638,17.439007</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> <br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.442156,17.438769</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Century hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Century hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.444257,17.407268</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Care hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Care hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.450315,17.412491</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Mahavir Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Mahavir Hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.457063,17.403664</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Star Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Star Hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.445541,17.415613</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Rainbow Hospitals</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Rainbow Hospitals<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.447569,17.414815</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Care Clinic</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Care Clinic<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.448162,17.420657</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> <br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.453476,17.416654</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Asian Gastroenterology Clini</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Asian Gastroenterology Clini<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.456656,17.421137</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Nizams Institute of Medical Sciences Hospital (NIMS)</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Nizams Institute of Medical Sciences Hospital (NIMS)<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.453472,17.422698</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Anu Test Tube Centre</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Anu Test Tube Centre<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.460206,17.421779</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Vasavi ENT Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Vasavi ENT Hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.464502,17.40681</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Hope Children Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Hope Children Hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.473478,17.406561</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Kirloskar Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Kirloskar Hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.475363,17.403607</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Radha Rani Nursing Home</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Radha Rani Nursing Home<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.481752,17.407019</coordinates></Point></Placemark>
+		<Placemark>
+			<name>K Prakash Rao (eye specialist)</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> K Prakash Rao (eye specialist)<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.481623,17.407306</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Dental Care</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Dental Care<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.485277,17.410385</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> <br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.448848,17.426999</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Yashodha Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Yashodha Hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.457238,17.424486</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Swapna Nursing Home</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Swapna Nursing Home<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.456738,17.429165</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> <br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.442565,17.438512</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Challa Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Challa Hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.45082,17.439606</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Sree Priya Multi Speciality Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Sree Priya Multi Speciality Hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.446126,17.441541</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Sri Vijaya Hospitals</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Sri Vijaya Hospitals<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.448034,17.44228</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Nature Cure Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Nature Cure Hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.450975,17.444307</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Pace Hospitals</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Pace Hospitals<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.469498,17.444478</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Bhargavi hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Bhargavi hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.420996,17.451211</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Government Ayurvedic Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Government Ayurvedic Hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.433732,17.448067</coordinates></Point></Placemark>
+		<Placemark>
+			<name>ESI Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> ESI Hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.438361,17.448107</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Aakar Asha Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Aakar Asha Hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.408494,17.489099</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Remedy Hospitals</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Remedy Hospitals<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.45674,17.463622</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> <br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.477838,17.469319</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Med plus</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Med plus<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.489312,17.404482</coordinates></Point></Placemark>
+		<Placemark>
+			<name>med plus</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> med plus<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.48934,17.404583</coordinates></Point></Placemark>
+		<Placemark>
+			<name>ramesh eye care</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> ramesh eye care<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.489497,17.408909</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Tapadia medical centre's eashwar lakshmi hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Tapadia medical centre's eashwar lakshmi hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.488882,17.411943</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> <br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.490461,17.411539</coordinates></Point></Placemark>
+		<Placemark>
+			<name>hetero gandhi nagar</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> hetero gandhi nagar<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.49014,17.413093</coordinates></Point></Placemark>
+		<Placemark>
+			<name>gandhi nagar diagnostic center</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> gandhi nagar diagnostic center<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.48998,17.416082</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> <br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.521976,17.437723</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Tarnaka Flyover;APSRTC Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Tarnaka Flyover;APSRTC Hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.530679,17.425537</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Innova Children's Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Innova Children's Hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.533237,17.428993</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Apollo Clinic</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Apollo Clinic<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.533336,17.429095</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Oxygen Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Oxygen Hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.498403,17.455698</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Janapareddy Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Janapareddy Hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.490476,17.460337</coordinates></Point></Placemark>
+		<Placemark>
+			<name>durgabhai deshmuk hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> durgabhai deshmuk hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.510526,17.403168</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Anand Nursing Home</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Anand Nursing Home<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.514383,17.410159</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Appolo Hospitals</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Appolo Hospitals<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.504874,17.439548</coordinates></Point></Placemark>
+		<Placemark>
+			<name>lifespring matrenity hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> lifespring matrenity hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.512702,17.429416</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Satya Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Satya Hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.512174,17.407574</coordinates></Point></Placemark>
+		<Placemark>
+			<name>new life hospitals</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> new life hospitals<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.517491,17.403306</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Dental Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Dental Hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.531197,17.451435</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Government Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Government Hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.534158,17.45094</coordinates></Point></Placemark>
+		<Placemark>
+			<name>L.K. Diagnostic</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> L.K. Diagnostic<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.535486,17.451288</coordinates></Point></Placemark>
+		<Placemark>
+			<name>L.K. Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> L.K. Hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.535545,17.451424</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Usha Mullapudi Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Usha Mullapudi Hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.429321,17.520814</coordinates></Point></Placemark>
+		<Placemark>
+			<name>carewell hospatal</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> carewell hospatal<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.446946,17.51134</coordinates></Point></Placemark>
+		<Placemark>
+			<name>sigma</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> sigma<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.443295,17.52217</coordinates></Point></Placemark>
+		<Placemark>
+			<name>hospital g</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> hospital g<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.433382,17.543987</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> <br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.432605,17.545473</coordinates></Point></Placemark>
+		<Placemark>
+			<name>SUDHA Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> SUDHA Hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.601767,17.489926</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Mamatha Nursing Home</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Mamatha Nursing Home<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.39603,17.488847</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Yashoda Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Yashoda Hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.499856,17.374562</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Medinova</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Medinova<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.457264,17.418437</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Ameerpet Government Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Ameerpet Government Hospital<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.447878,17.441714</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Sandhya</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Sandhya<br>
+<b>icontype:</b> small_green
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_green</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.432097,17.477479</coordinates></Point></Placemark>
+		<Style id='Style2-point-2'>
+			<IconStyle>
+				<color>ffff0000</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://cse.unl.edu/~surge/docs/kml/police.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-point-2-hover'>
+			<IconStyle>
+				<color>ffff0000</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://cse.unl.edu/~surge/docs/kml/police.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-point-2-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-point-2</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-point-2-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Telangana police academy</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Telangana police academy<br>
+<b>icontype:</b> small_blue
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_blue</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.361646,17.353315</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Rayadurgam, Cyberabad</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Rayadurgam, Cyberabad<br>
+<b>icontype:</b> small_blue
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_blue</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.380553,17.423312</coordinates></Point></Placemark>
+		<Placemark>
+			<name>madhapur police station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> madhapur police station<br>
+<b>icontype:</b> small_blue
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_blue</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.39589,17.439398</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Madhapur Police Station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Madhapur Police Station<br>
+<b>icontype:</b> small_blue
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_blue</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.39619,17.439689</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Ramachndrapuram Police Station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Ramachndrapuram Police Station<br>
+<b>icontype:</b> small_blue
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_blue</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.316218,17.494632</coordinates></Point></Placemark>
+		<Placemark>
+			<name>KPHB Police Station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> KPHB Police Station<br>
+<b>icontype:</b> small_blue
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_blue</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.395671,17.496762</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> <br>
+<b>icontype:</b> small_blue
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_blue</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.46836,17.334999</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Humayun Nagar Police Station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Humayun Nagar Police Station<br>
+<b>icontype:</b> small_blue
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_blue</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.442243,17.395513</coordinates></Point></Placemark>
+		<Placemark>
+			<name>commissioner office</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> commissioner office<br>
+<b>icontype:</b> small_blue
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_blue</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.479583,17.367421</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> <br>
+<b>icontype:</b> small_blue
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_blue</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.482082,17.371447</coordinates></Point></Placemark>
+		<Placemark>
+			<name>NAMPALLY PS</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> NAMPALLY PS<br>
+<b>icontype:</b> small_blue
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_blue</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.460348,17.400069</coordinates></Point></Placemark>
+		<Placemark>
+			<name>abids police station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> abids police station<br>
+<b>icontype:</b> small_blue
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_blue</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.476139,17.38898</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Abids traffic police station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Abids traffic police station<br>
+<b>icontype:</b> small_blue
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_blue</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.476176,17.388976</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> <br>
+<b>icontype:</b> small_blue
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_blue</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.468935,17.392366</coordinates></Point></Placemark>
+		<Placemark>
+			<name>ABIDS Police Station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> ABIDS Police Station<br>
+<b>icontype:</b> small_blue
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_blue</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.48521,17.394662</coordinates></Point></Placemark>
+		<Placemark>
+			<name>vanasthalipuram police station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> vanasthalipuram police station<br>
+<b>icontype:</b> small_blue
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_blue</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.56901,17.332011</coordinates></Point></Placemark>
+		<Placemark>
+			<name>LB Nagar Police Station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> LB Nagar Police Station<br>
+<b>icontype:</b> small_blue
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_blue</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.551573,17.346778</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> <br>
+<b>icontype:</b> small_blue
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_blue</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.499903,17.365527</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Chaderghat Police Station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Chaderghat Police Station<br>
+<b>icontype:</b> small_blue
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_blue</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.49173,17.377938</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Gaddiannaram Police Station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Gaddiannaram Police Station<br>
+<b>icontype:</b> small_blue
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_blue</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.52764,17.368032</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Narayanaguda police station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Narayanaguda police station<br>
+<b>icontype:</b> small_blue
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_blue</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.48982,17.397857</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Amberpet Police Station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Amberpet Police Station<br>
+<b>icontype:</b> small_blue
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_blue</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.516774,17.389902</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Amberpet Police Station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Amberpet Police Station<br>
+<b>icontype:</b> small_blue
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_blue</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.518244,17.389303</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Police Station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Police Station<br>
+<b>icontype:</b> small_blue
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_blue</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.536577,17.368644</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Uppal Police Station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Uppal Police Station<br>
+<b>icontype:</b> small_blue
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_blue</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.560227,17.402204</coordinates></Point></Placemark>
+		<Placemark>
+			<name>SAIFABAD PS</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> SAIFABAD PS<br>
+<b>icontype:</b> small_blue
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_blue</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.462563,17.402833</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Saifabad Police Station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Saifabad Police Station<br>
+<b>icontype:</b> small_blue
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_blue</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.464608,17.411087</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> <br>
+<b>icontype:</b> small_blue
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_blue</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.464918,17.422316</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> <br>
+<b>icontype:</b> small_blue
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_blue</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.483922,17.421139</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Punjagutta Police Station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Punjagutta Police Station<br>
+<b>icontype:</b> small_blue
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_blue</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.452427,17.426272</coordinates></Point></Placemark>
+		<Placemark>
+			<name>SR Nagar Police Station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> SR Nagar Police Station<br>
+<b>icontype:</b> small_blue
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_blue</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.447843,17.441429</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Begumpet Police Station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Begumpet Police Station<br>
+<b>icontype:</b> small_blue
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_blue</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.474784,17.443961</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Ramgopalpet Police Station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Ramgopalpet Police Station<br>
+<b>icontype:</b> small_blue
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_blue</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.479125,17.440561</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Begumpet Traffic Police</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Begumpet Traffic Police<br>
+<b>icontype:</b> small_blue
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_blue</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.479091,17.44363</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Bowenpally Police Station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Bowenpally Police Station<br>
+<b>icontype:</b> small_blue
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_blue</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.472683,17.465167</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Nallakunta Police Station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Nallakunta Police Station<br>
+<b>icontype:</b> small_blue
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_blue</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.513311,17.407697</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Osmania University Police Station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Osmania University Police Station<br>
+<b>icontype:</b> small_blue
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_blue</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.525957,17.421528</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Ramgopalpet Police Station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Ramgopalpet Police Station<br>
+<b>icontype:</b> small_blue
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_blue</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.488406,17.436289</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Mahankali Police Station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Mahankali Police Station<br>
+<b>icontype:</b> small_blue
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_blue</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.49096,17.436026</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Tukaram Gate Police Station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Tukaram Gate Police Station<br>
+<b>icontype:</b> small_blue
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_blue</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.517481,17.445106</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> <br>
+<b>icontype:</b> small_blue
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_blue</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.549373,17.426532</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Karkhana Police Station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Karkhana Police Station<br>
+<b>icontype:</b> small_blue
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_blue</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.500636,17.461992</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Malkajgiri Police Station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Malkajgiri Police Station<br>
+<b>icontype:</b> small_blue
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_blue</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.537414,17.449871</coordinates></Point></Placemark>
+		<Style id='Style2-point-3'>
+			<IconStyle>
+				<color>ff00ffff</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://cse.unl.edu/~surge/docs/kml/postal.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-point-3-hover'>
+			<IconStyle>
+				<color>ff00ffff</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://cse.unl.edu/~surge/docs/kml/postal.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-point-3-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-point-3</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-point-3-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> post_office<br>
+<b>name:</b> <br>
+<b>icontype:</b> small_yellow
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_yellow</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.319531,17.393442</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> post_box<br>
+<b>name:</b> <br>
+<b>icontype:</b> small_yellow
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_yellow</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.319557,17.393504</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Gachibowli Post Office</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> post_office<br>
+<b>name:</b> Gachibowli Post Office<br>
+<b>icontype:</b> small_yellow
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_yellow</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.358633,17.439065</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> post_office<br>
+<b>name:</b> <br>
+<b>icontype:</b> small_yellow
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_yellow</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.387996,17.432333</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Cyberabad Post Office</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> post_office<br>
+<b>name:</b> Cyberabad Post Office<br>
+<b>icontype:</b> small_yellow
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_yellow</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.39108,17.44163</coordinates></Point></Placemark>
+		<Placemark>
+			<name>DTDC</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> post_office<br>
+<b>name:</b> DTDC<br>
+<b>icontype:</b> small_yellow
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_yellow</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.320088,17.478282</coordinates></Point></Placemark>
+		<Placemark>
+			<name>patancheru post office</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> post_office<br>
+<b>name:</b> patancheru post office<br>
+<b>icontype:</b> small_yellow
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_yellow</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.264557,17.534783</coordinates></Point></Placemark>
+		<Placemark>
+			<name>jntu post office</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> post_office<br>
+<b>name:</b> jntu post office<br>
+<b>icontype:</b> small_yellow
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_yellow</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.392056,17.492894</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> post_box<br>
+<b>name:</b> <br>
+<b>icontype:</b> small_yellow
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_yellow</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.403048,17.312453</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> post_office<br>
+<b>name:</b> <br>
+<b>icontype:</b> small_yellow
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_yellow</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.400419,17.322419</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> post_box<br>
+<b>name:</b> <br>
+<b>icontype:</b> small_yellow
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_yellow</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.400474,17.322486</coordinates></Point></Placemark>
+		<Placemark>
+			<name>India Post</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> post_office<br>
+<b>name:</b> India Post<br>
+<b>icontype:</b> small_yellow
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_yellow</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.410841,17.415831</coordinates></Point></Placemark>
+		<Placemark>
+			<name>DTDC</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> post_office<br>
+<b>name:</b> DTDC<br>
+<b>icontype:</b> small_yellow
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_yellow</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.411527,17.417831</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Sri Nagar Colony Post Office</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> post_office<br>
+<b>name:</b> Sri Nagar Colony Post Office<br>
+<b>icontype:</b> small_yellow
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_yellow</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.437951,17.429732</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Khairatabad Post Office</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> post_office<br>
+<b>name:</b> Khairatabad Post Office<br>
+<b>icontype:</b> small_yellow
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_yellow</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.462374,17.406847</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Assembly Postbox</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> post_box<br>
+<b>name:</b> Assembly Postbox<br>
+<b>icontype:</b> small_yellow
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_yellow</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.466447,17.402715</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> post_box<br>
+<b>name:</b> <br>
+<b>icontype:</b> small_yellow
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_yellow</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.444228,17.436092</coordinates></Point></Placemark>
+		<Placemark>
+			<name>S. R. Nagar Post Office</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> post_box<br>
+<b>name:</b> S. R. Nagar Post Office<br>
+<b>icontype:</b> small_yellow
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_yellow</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.444154,17.437346</coordinates></Point></Placemark>
+		<Placemark>
+			<name>kukatpally post office</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> post_office<br>
+<b>name:</b> kukatpally post office<br>
+<b>icontype:</b> small_yellow
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_yellow</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.411749,17.483868</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Old Airport Post Office</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> post_office<br>
+<b>name:</b> Old Airport Post Office<br>
+<b>icontype:</b> small_yellow
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_yellow</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.46259,17.45625</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> post_office<br>
+<b>name:</b> <br>
+<b>icontype:</b> small_yellow
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_yellow</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.472737,17.4661</coordinates></Point></Placemark>
+		<Placemark>
+			<name>post office</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> post_office<br>
+<b>name:</b> post office<br>
+<b>icontype:</b> small_yellow
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_yellow</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.486778,17.402401</coordinates></Point></Placemark>
+		<Placemark>
+			<name>post office</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> post_office<br>
+<b>name:</b> post office<br>
+<b>icontype:</b> small_yellow
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_yellow</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.49178,17.404605</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Gandhi nagar post office</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> post_office<br>
+<b>name:</b> Gandhi nagar post office<br>
+<b>icontype:</b> small_yellow
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_yellow</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.491171,17.419411</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Vidyanagar Post Office</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> post_box<br>
+<b>name:</b> Vidyanagar Post Office<br>
+<b>icontype:</b> small_yellow
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_yellow</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.511017,17.408103</coordinates></Point></Placemark>
+		<Placemark>
+			<name>post office</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> post_office<br>
+<b>name:</b> post office<br>
+<b>icontype:</b> small_yellow
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_yellow</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.525593,17.420246</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> post_box<br>
+<b>name:</b> <br>
+<b>icontype:</b> small_yellow
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_yellow</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.495281,17.441251</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Lal Bazar Post Office</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> post_office<br>
+<b>name:</b> Lal Bazar Post Office<br>
+<b>icontype:</b> small_yellow
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_yellow</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.514671,17.478386</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Malkajgiri Post Office</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> post_office<br>
+<b>name:</b> Malkajgiri Post Office<br>
+<b>icontype:</b> small_yellow
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_yellow</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.53628,17.450349</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Post office</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> post_office<br>
+<b>name:</b> Post office<br>
+<b>icontype:</b> small_yellow
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_yellow</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.540655,17.489984</coordinates></Point></Placemark>
+		<Placemark>
+			<name>ecil post office</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> post_office<br>
+<b>name:</b> ecil post office<br>
+<b>icontype:</b> small_yellow
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_yellow</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.568868,17.470703</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> post_office<br>
+<b>name:</b> <br>
+<b>icontype:</b> small_yellow
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_yellow</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.469265,17.546607</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Yapral Post Office</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> post_box<br>
+<b>name:</b> Yapral Post Office<br>
+<b>icontype:</b> small_yellow
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_yellow</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.538341,17.500603</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> post_box<br>
+<b>name:</b> <br>
+<b>icontype:</b> small_yellow
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_yellow</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.473302,17.407524</coordinates></Point></Placemark>
+		<Style id='Style2-point-4'>
+			<IconStyle>
+				<color>ff0000ff</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://cse.unl.edu/~surge/docs/kml/school.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-point-4-hover'>
+			<IconStyle>
+				<color>ff0000ff</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://cse.unl.edu/~surge/docs/kml/school.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-point-4-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-point-4</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-point-4-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> <br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.391188,17.401566</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Center of Excellence of ICAI,ICAI Bhawan</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> college<br>
+<b>name:</b> Center of Excellence of ICAI,ICAI Bhawan<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.334625,17.424417</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Jawaharlal Nehru Institute of Banking and Finance</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> college<br>
+<b>name:</b> Jawaharlal Nehru Institute of Banking and Finance<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.351577,17.442407</coordinates></Point></Placemark>
+		<Placemark>
+			<name>LSI</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> college<br>
+<b>name:</b> LSI<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.350285,17.445435</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Delhi Public School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Delhi Public School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.371281,17.417388</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Safrani Memorial High School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Safrani Memorial High School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.393796,17.410485</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Kendirya Vidyalaya</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Kendirya Vidyalaya<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.354991,17.43931</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Sharada High</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Sharada High<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.391362,17.441262</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Orchard</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Orchard<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.398417,17.441919</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Asha Kiran</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Asha Kiran<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.347778,17.446589</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Jain Heritage School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Jain Heritage School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.343216,17.464496</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Chirec Public School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Chirec Public School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.351733,17.462449</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Pavithra International School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Pavithra International School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.317774,17.479075</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Sancta Maria International School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Sancta Maria International School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.319439,17.482168</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Triveni Talent Schools</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Triveni Talent Schools<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.314212,17.489594</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Gautham Grammar High School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Gautham Grammar High School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.36608,17.461179</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> <br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.390444,17.492141</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> <br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.390902,17.492669</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Bashkar Model School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Bashkar Model School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.388967,17.500358</coordinates></Point></Placemark>
+		<Placemark>
+			<name>honey tots pre school</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> honey tots pre school<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.386226,17.506223</coordinates></Point></Placemark>
+		<Placemark>
+			<name>GRIET</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> GRIET<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.362891,17.519768</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Narayana Junior College (Girls - Seniors) (AIEEE)</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Narayana Junior College (Girls - Seniors) (AIEEE)<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.394805,17.515305</coordinates></Point></Placemark>
+		<Placemark>
+			<name>National Institute of Rural Development</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> National Institute of Rural Development<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.403699,17.312836</coordinates></Point></Placemark>
+		<Placemark>
+			<name>AMR-APARD</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> AMR-APARD<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.403388,17.31802</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Dharmavant High School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Dharmavant High School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.481975,17.361838</coordinates></Point></Placemark>
+		<Placemark>
+			<name>St.Josephs High School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> St.Josephs High School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.452494,17.393758</coordinates></Point></Placemark>
+		<Placemark>
+			<name>ST Anns School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> ST Anns School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.454084,17.397882</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Board of Intermediate</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> college<br>
+<b>name:</b> Board of Intermediate<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.468807,17.38994</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Osmania Medical College</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> college<br>
+<b>name:</b> Osmania Medical College<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.482926,17.382464</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Little Flower Primary School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Little Flower Primary School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.474051,17.392519</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Little Flower High School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Little Flower High School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.474754,17.393638</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Sujatha High School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Sujatha High School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.473023,17.394795</coordinates></Point></Placemark>
+		<Placemark>
+			<name>St. Joseph's Girls High School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> St. Joseph's Girls High School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.477356,17.396378</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Goutham Model School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Goutham Model School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.484836,17.401539</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Smiles indian school</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Smiles indian school<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.486149,17.401772</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Loyola Montessori House</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Loyola Montessori House<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.569386,17.330349</coordinates></Point></Placemark>
+		<Placemark>
+			<name>siddhartha High School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> siddhartha High School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.569407,17.330462</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Narayana Junior College</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> college<br>
+<b>name:</b> Narayana Junior College<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.569622,17.336993</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Chanchalguda Jr College</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> college<br>
+<b>name:</b> Chanchalguda Jr College<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.497039,17.365762</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Narayana Junior College</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> college<br>
+<b>name:</b> Narayana Junior College<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.521756,17.367897</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Koti Women's College</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> college<br>
+<b>name:</b> Koti Women's College<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.487905,17.384518</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Jingle Bell School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Jingle Bell School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.488435,17.395731</coordinates></Point></Placemark>
+		<Placemark>
+			<name>YMCA</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> YMCA<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.49105,17.395813</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Narayana Junior College, AIEEE</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Narayana Junior College, AIEEE<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.488397,17.400433</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Howard school</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Howard school<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.487107,17.401837</coordinates></Point></Placemark>
+		<Placemark>
+			<name>narayana junior college</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> college<br>
+<b>name:</b> narayana junior college<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.488102,17.401359</coordinates></Point></Placemark>
+		<Placemark>
+			<name>fitjee school</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> college<br>
+<b>name:</b> fitjee school<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.488331,17.401353</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Sri chaitanya high school</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Sri chaitanya high school<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.489003,17.401425</coordinates></Point></Placemark>
+		<Placemark>
+			<name>St Anthony high school</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> St Anthony high school<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.488564,17.401916</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Avanthi degree&amp;pg college</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Avanthi degree&amp;pg college<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.490595,17.400362</coordinates></Point></Placemark>
+		<Placemark>
+			<name>narayana boys campus</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> college<br>
+<b>name:</b> narayana boys campus<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.492726,17.397623</coordinates></Point></Placemark>
+		<Placemark>
+			<name>baghlingampally</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> baghlingampally<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.498524,17.402059</coordinates></Point></Placemark>
+		<Placemark>
+			<name>ST.PATRICKS JUNIOR COLLEGE</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> college<br>
+<b>name:</b> ST.PATRICKS JUNIOR COLLEGE<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.505113,17.39839</coordinates></Point></Placemark>
+		<Placemark>
+			<name>sri chaitanya JUNIOR COLLEGE</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> college<br>
+<b>name:</b> sri chaitanya JUNIOR COLLEGE<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.505545,17.398784</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Divyanjali High School.</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Divyanjali High School.<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.515644,17.396755</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Hindi Maha Vidyalaya</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> college<br>
+<b>name:</b> Hindi Maha Vidyalaya<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.509213,17.401493</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Arjun College of Technology &amp; Science</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> college<br>
+<b>name:</b> Arjun College of Technology &amp; Science<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.725105,17.312474</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Zee School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Zee School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.603415,17.322332</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Nagole Engineering College</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> college<br>
+<b>name:</b> Nagole Engineering College<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.609132,17.35034</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Brilliant Group of Institutions</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> college<br>
+<b>name:</b> Brilliant Group of Institutions<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.706195,17.316624</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Apollo College Of Physiotherapy</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> college<br>
+<b>name:</b> Apollo College Of Physiotherapy<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.41506,17.413967</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Sri Chaitanya Junior College</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Sri Chaitanya Junior College<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.411861,17.419919</coordinates></Point></Placemark>
+		<Placemark>
+			<name>AISFM</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> AISFM<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.423785,17.427184</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Siddhartha Residential School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Siddhartha Residential School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.437955,17.429312</coordinates></Point></Placemark>
+		<Placemark>
+			<name>government school</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> government school<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.428299,17.436251</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Royal Jr. College</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> college<br>
+<b>name:</b> Royal Jr. College<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.442189,17.442328</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Jawaharlal Nehru Architecture and Fine Arts University</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Jawaharlal Nehru Architecture and Fine Arts University<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.455947,17.403009</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Holy Mary Girls High School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Holy Mary Girls High School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.457813,17.404402</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Nasr School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Nasr School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.45883,17.411373</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Springfields School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Springfields School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.444597,17.413541</coordinates></Point></Placemark>
+		<Placemark>
+			<name>administrative staff college of india</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> college<br>
+<b>name:</b> administrative staff college of india<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.459537,17.414617</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Siddhartha Degree College</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Siddhartha Degree College<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.445259,17.431966</coordinates></Point></Placemark>
+		<Placemark>
+			<name>cognizant collage of commerce</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> cognizant collage of commerce<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.450199,17.431539</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Hindu public school</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Hindu public school<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.441115,17.453385</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> <br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.427063,17.466515</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Institute of Aircraft Maintenance Engineering</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Institute of Aircraft Maintenance Engineering<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.457329,17.459382</coordinates></Point></Placemark>
+		<Placemark>
+			<name>St Paul degree and pg college, St Joseph Jr college</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> St Paul degree and pg college, St Joseph Jr college<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.487189,17.402617</coordinates></Point></Placemark>
+		<Placemark>
+			<name>St Anthony high school</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> St Anthony high school<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.488546,17.403077</coordinates></Point></Placemark>
+		<Placemark>
+			<name>St Anthony high school</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> St Anthony high school<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.488659,17.40311</coordinates></Point></Placemark>
+		<Placemark>
+			<name>St Anthony high school</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> St Anthony high school<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.488576,17.403118</coordinates></Point></Placemark>
+		<Placemark>
+			<name>People's High school</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> People's High school<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.488869,17.404048</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Rockwoods High School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Rockwoods High School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.486414,17.409521</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Rockwoods High School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Rockwoods High School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.487162,17.409656</coordinates></Point></Placemark>
+		<Placemark>
+			<name>St. Peter High School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> St. Peter High School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.488055,17.409534</coordinates></Point></Placemark>
+		<Placemark>
+			<name>eurokids ashok nagar</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> eurokids ashok nagar<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.489265,17.408999</coordinates></Point></Placemark>
+		<Placemark>
+			<name>narayana school,iit</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> narayana school,iit<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.489894,17.408618</coordinates></Point></Placemark>
+		<Placemark>
+			<name>little gems play school/sri sai ram tutorial</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> little gems play school/sri sai ram tutorial<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.494636,17.413529</coordinates></Point></Placemark>
+		<Placemark>
+			<name>smart media desktop</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> college<br>
+<b>name:</b> smart media desktop<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.494993,17.41509</coordinates></Point></Placemark>
+		<Placemark>
+			<name>S.V.E.S High School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> S.V.E.S High School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.512225,17.405455</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Jyothi Bala Mandir High School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Jyothi Bala Mandir High School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.513504,17.407571</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Engineering College</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Engineering College<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.518451,17.406785</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Computer Science Department</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Computer Science Department<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.519412,17.407203</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Hyderabad Public School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Hyderabad Public School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.536209,17.400104</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Nova Group of Institutions</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> college<br>
+<b>name:</b> Nova Group of Institutions<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.709311,17.298623</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Law College</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Law College<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.525644,17.415843</coordinates></Point></Placemark>
+		<Placemark>
+			<name>University Library</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> University Library<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.525515,17.41717</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Department of Chemistry</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Department of Chemistry<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.53027,17.418046</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Department of Physics</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Department of Physics<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.529025,17.418472</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Wesley High School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Wesley High School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.486504,17.440401</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Tagore Auditorium</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Tagore Auditorium<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.531248,17.414893</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Department of Bio Chemistry</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> university<br>
+<b>name:</b> Department of Bio Chemistry<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.5316,17.417628</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Johnson Grammar School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Johnson Grammar School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.542738,17.416747</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Narayana Junior College</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Narayana Junior College<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.544213,17.418713</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Zaheer Memorial</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Zaheer Memorial<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.547909,17.417864</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Sandeepam Vidyalaya,tarnaka</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Sandeepam Vidyalaya,tarnaka<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.534668,17.426041</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Sandeepamn Vidyalaya</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Sandeepamn Vidyalaya<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.535565,17.426048</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Kendriya Vidyalaya Picket</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Kendriya Vidyalaya Picket<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.495567,17.452369</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Sunflower School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Sunflower School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.491098,17.461933</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Butterflies</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Butterflies<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.494593,17.46193</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Gunrock Enclave High School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Gunrock Enclave High School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.496825,17.461787</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Sarvodaya High School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Sarvodaya High School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.526583,17.453134</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Saraswati High School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Saraswati High School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.52786,17.452725</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Bhegas High School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Bhegas High School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.528005,17.453211</coordinates></Point></Placemark>
+		<Placemark>
+			<name>St. Joseph's High School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> St. Joseph's High School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.512781,17.47692</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Holy Family Girls High School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Holy Family Girls High School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.512687,17.477772</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Zilla Parishad Girls high School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Zilla Parishad Girls high School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.533386,17.450431</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Balaji High School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Balaji High School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.533469,17.451073</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Zilla Parishad Boys High School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Zilla Parishad Boys High School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.534032,17.450526</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Durga Bhavani High School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Durga Bhavani High School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.534142,17.451685</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Bhavan's Vivekananda College</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> college<br>
+<b>name:</b> Bhavan's Vivekananda College<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.534699,17.489475</coordinates></Point></Placemark>
+		<Placemark>
+			<name>St. Theresa High School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> St. Theresa High School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.55941,17.480728</coordinates></Point></Placemark>
+		<Placemark>
+			<name>DAV Public School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> DAV Public School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.410596,17.494973</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Zilla Parishath High School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Zilla Parishath High School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.465259,17.542627</coordinates></Point></Placemark>
+		<Placemark>
+			<name>primary school</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> primary school<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.469208,17.5464</coordinates></Point></Placemark>
+		<Placemark>
+			<name>ST Peter's INTERNATIONAL SCHOOL</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> ST Peter's INTERNATIONAL SCHOOL<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.450022,17.564444</coordinates></Point></Placemark>
+		<Placemark>
+			<name>DPEP PRIMARY SCHOOL</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> DPEP PRIMARY SCHOOL<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.454638,17.562765</coordinates></Point></Placemark>
+		<Placemark>
+			<name>abhaya</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> abhaya<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.47356,17.563662</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Zilla Parishath High School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Zilla Parishath High School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.486068,17.57128</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Paul's School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Paul's School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.521127,17.520473</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Bhavans Sri Ramakrishna Vidyalaya</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Bhavans Sri Ramakrishna Vidyalaya<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.534625,17.491696</coordinates></Point></Placemark>
+		<Placemark>
+			<name>sits</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> sits<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.636753,17.408722</coordinates></Point></Placemark>
+		<Placemark>
+			<name>MRR School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> MRR School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.579191,17.480122</coordinates></Point></Placemark>
+		<Placemark>
+			<name>srichaithanya jr college,ghatkesar</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> college<br>
+<b>name:</b> srichaithanya jr college,ghatkesar<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.726079,17.459413</coordinates></Point></Placemark>
+		<Placemark>
+			<name>z.p.g.h.s. ground</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> z.p.g.h.s. ground<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.266712,17.527621</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> <br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.484263,17.394219</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Kendriya Vidyalaya, DRDO, Kanchanbagh</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Kendriya Vidyalaya, DRDO, Kanchanbagh<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.501917,17.339512</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Lotus Lap School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Lotus Lap School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.568706,17.332869</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Bharatiya Vidya Bhavan's Public School (BVBPS)</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Bharatiya Vidya Bhavan's Public School (BVBPS)<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.411187,17.418953</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Gautham Model School</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> school<br>
+<b>name:</b> Gautham Model School<br>
+<b>icontype:</b> small_red
+</div>]]></description>
+			<styleUrl>#Style2-point-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='icontype'>
+					<value>small_red</value>
+				</Data>
+			</ExtendedData><Point><coordinates>78.445356,17.442728</coordinates></Point></Placemark>
+	</Document>
+</kml>

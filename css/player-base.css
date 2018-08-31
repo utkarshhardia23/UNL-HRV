@@ -1,0 +1,35 @@
+/*
+Author: Hariharan Arunachalam
+Date: Aug 4, 2016 (6:22:21 PM)
+Explicit author permission required before this code is reused for any purpose - more like please let me know :)
+*/
+
+/* 
+    Created on : Aug 4, 2016, 6:22:21 PM
+    Author     : Hariharan
+*/
+
+#player-control-container {
+    width: 95%;
+    left: 2.5%;
+    top: 75%;
+}
+
+#player-control-container .card .card-content .row {
+    margin-bottom: 2px;
+}
+
+#player-control-container .card .card-content {
+   padding: 1px;   
+}
+
+.field-title {
+    font-size: larger;
+    text-align: right;
+}
+
+.btn.btn-small {
+    font-size: smaller;
+    height: 30px;
+    line-height: 30px;
+}

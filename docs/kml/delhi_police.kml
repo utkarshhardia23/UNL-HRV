@@ -1,0 +1,560 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>delhi_police</name>
+		<Style id='Style2-point-1'>
+			<IconStyle>
+				<color>ff0000ff</color>
+				<scale>0.25</scale>
+				<Icon>
+					<href>http://cse.unl.edu/~surge/docs/kml/policemen.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-point-1-hover'>
+			<IconStyle>
+				<color>ff0000ff</color>
+				<scale>0.25</scale>
+				<Icon>
+					<href>http://cse.unl.edu/~surge/docs/kml/policemen.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-point-1-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-point-1</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-point-1-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='Style2-line-2'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>800000ff</color>
+				<width>2</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-line-2-hover'>
+			<LineStyle>
+				<color>800000ff</color>
+				<width>2</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-line-2-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-line-2</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-line-2-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='Style2-polygon-3'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f0000ff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-3-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f0000ff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-3-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-3</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-3-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Police Aid Post dharuheda</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Police Aid Post dharuheda
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>76.794717,28.21575</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Police Station Bilaspur</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Police Station Bilaspur
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>76.858613,28.288256</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Dhatir police station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Dhatir police station
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.223195,28.198468</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Police Station Bhondsi</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Police Station Bhondsi
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.068134,28.344578</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Islampur Police Station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Islampur Police Station
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.037512,28.429162</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Sadar Police Station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Sadar Police Station
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.036067,28.46406</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Sushant Lok Police Station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Sushant Lok Police Station
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.072854,28.463351</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Police Station Sector 56</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Police Station Sector 56
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.103151,28.424827</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.226209,28.430193</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Police chowki NIT 3</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Police chowki NIT 3
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.290078,28.395943</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.297133,28.430981</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Jaffar Pur Police Station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Jaffar Pur Police Station
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>76.915178,28.595854</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Baba Haridas Nagar Police Station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Baba Haridas Nagar Police Station
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>76.966682,28.628936</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>76.982832,28.609815</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Police Chowki</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Police Chowki
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>76.986743,28.612611</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Sirhaul Police Station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Sirhaul Police Station
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.066095,28.486364</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Dwarka Ploce Station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Dwarka Ploce Station
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.058452,28.564969</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Vikas Puri</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Vikas Puri
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.068268,28.630144</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.16522,28.594285</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Tihar Jail</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Tihar Jail
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.099791,28.609713</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.121962,28.649957</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Malviya Nagar Police Station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Malviya Nagar Police Station
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.204556,28.530672</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Police Station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Police Station
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.254328,28.524684</coordinates></Point></Placemark>
+		<Placemark>
+			<name>CR Park Police Station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> CR Park Police Station
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.249332,28.53668</coordinates></Point></Placemark>
+		<Placemark>
+			<name>police station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> police station
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.195299,28.58201</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Chanakyapuri</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Chanakyapuri
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.195973,28.60283</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Lajpat Nagar Police Station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Lajpat Nagar Police Station
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.240534,28.568556</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.181008,28.634519</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Rajendra Nagar Police Station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Rajendra Nagar Police Station
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.182694,28.634698</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Prasad Nagar Police Station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Prasad Nagar Police Station
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.180705,28.647874</coordinates></Point></Placemark>
+		<Placemark>
+			<name>DCP Residence</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> DCP Residence
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.23297,28.627578</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Daryaganj Police Station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Daryaganj Police Station
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.241175,28.641863</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.243235,28.649932</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.337526,28.577965</coordinates></Point></Placemark>
+		<Placemark>
+			<name>New Ashok Nagar Police Station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> New Ashok Nagar Police Station
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.311239,28.598336</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Police Post Kaushambi, Police Station Indirapuram</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Police Post Kaushambi, Police Station Indirapuram
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.327065,28.642188</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.14681,28.660826</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Keshav Puram Police Station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Keshav Puram Police Station
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.159577,28.683945</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Shalimar Bagh Police Station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Shalimar Bagh Police Station
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.157137,28.717092</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Bawana Police station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Bawana Police station
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.025642,28.805512</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.183691,28.66888</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Ashok Vihar Police Station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Ashok Vihar Police Station
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.173628,28.692674</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Lahori Gate Police Station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Lahori Gate Police Station
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.219016,28.655836</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Jama Masjid Police Station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Jama Masjid Police Station
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.233705,28.652464</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Kotwali Police Station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Kotwali Police Station
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.231084,28.658598</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Cycle Market Police Post</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Cycle Market Police Post
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.234738,28.655921</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Thana Kundli</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Thana Kundli
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.123353,28.863854</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Police Chowki</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Police Chowki
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.285428,28.863895</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Shipra Police station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Shipra Police station
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.378263,28.637807</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Rajendra Nagar Police Chowki</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Rajendra Nagar Police Chowki
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.357894,28.677813</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Sahibabad Police Station</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> police<br>
+<b>name:</b> Sahibabad Police Station
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.371272,28.678628</coordinates></Point></Placemark>
+	</Document>
+</kml>

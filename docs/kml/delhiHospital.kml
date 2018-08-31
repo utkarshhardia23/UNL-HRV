@@ -1,0 +1,868 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>delhi_hospital</name>
+		<Style id='Style2-point-1'>
+			<IconStyle>
+				<color>ff0000ff</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://cse.unl.edu/~surge/docs/kml/hospital.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-point-1-hover'>
+			<IconStyle>
+				<color>ff0000ff</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://cse.unl.edu/~surge/docs/kml/hospital.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-point-1-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-point-1</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-point-1-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='Style2-line-2'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>800000ff</color>
+				<width>2</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-line-2-hover'>
+			<LineStyle>
+				<color>800000ff</color>
+				<width>2</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-line-2-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-line-2</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-line-2-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='Style2-polygon-3'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f0000ff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-3-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f0000ff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-3-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-3</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-3-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Civil Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Civil Hospital
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.07145,28.248504</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Astha Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Astha Hospital
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.064921,28.350927</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Sai Heart and Trauma Center</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Sai Heart and Trauma Center
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.04559,28.397875</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Gobind Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Gobind Hospital
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.04924,28.390576</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Pushpanjali Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Pushpanjali Hospital
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.032845,28.450813</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.033391,28.461191</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Artmemis</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Artmemis
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.072277,28.432627</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.061321,28.446227</coordinates></Point></Placemark>
+		<Placemark>
+			<name>السكن</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> السكن
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.061569,28.446077</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Fortis Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Fortis Hospital
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.075485,28.46019</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Max Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Max Hospital
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.075931,28.462841</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Umkal Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Umkal Hospital
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.073314,28.471504</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Paras Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Paras Hospital
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.087609,28.450926</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Alchemist</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Alchemist
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.102687,28.439287</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Sitaram Bhartia</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Sitaram Bhartia
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.082474,28.467508</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Prime Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Prime Hospital
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.318598,28.444711</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Rural Health Centre Ujwa</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Rural Health Centre Ujwa
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>76.904341,28.570401</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Columbia Asia Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Columbia Asia Hospital
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.041581,28.509085</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Metro Hospitals and Heart Institute</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Metro Hospitals and Heart Institute
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.038823,28.518174</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Govt Dispensory</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Govt Dispensory
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.057359,28.58661</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Ayushman Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Ayushman Hospital
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.049383,28.59652</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Krypton Global Health</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Krypton Global Health
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.073156,28.638616</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Krypton Global Health</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Krypton Global Health
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.073156,28.638616</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Army Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Army Hospital
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.152026,28.586273</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Base Hospital Delhi Cantt</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Base Hospital Delhi Cantt
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.136673,28.60824</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Army Hospital R&amp;R, Main Gate</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Army Hospital R&amp;R, Main Gate
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.153757,28.588831</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Deen Dayal Upadhyaya Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Deen Dayal Upadhyaya Hospital
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.112229,28.628101</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.138743,28.643889</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Majeedia Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Majeedia Hospital
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.251825,28.514817</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.215082,28.522188</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Pushpawati Singhania research institute</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Pushpawati Singhania research institute
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.225428,28.53312</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.244538,28.546925</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Indraprastha Apollo Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Indraprastha Apollo Hospital
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.2835,28.540839</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Chandiwala Institute of Eye</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Chandiwala Institute of Eye
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.26599,28.544205</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Sujan Mohinder Singh Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Sujan Mohinder Singh Hospital
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.268575,28.562903</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Goyal MRI &amp; Diagnostic Centre</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Goyal MRI &amp; Diagnostic Centre
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.189328,28.564714</coordinates></Point></Placemark>
+		<Placemark>
+			<name>C.G.H.S Dispensary</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> C.G.H.S Dispensary
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.186027,28.572253</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Moolchand Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Moolchand Hospital
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.235258,28.566704</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Gamca</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Gamca
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.236937,28.570319</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Ram Manohar Lohia Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Ram Manohar Lohia Hospital
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.20071,28.625881</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Sardar Vallabh Bhai Patel Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Sardar Vallabh Bhai Patel Hospital
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.16909,28.646953</coordinates></Point></Placemark>
+		<Placemark>
+			<name>BLK</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> BLK
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.179525,28.643322</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.205086,28.641409</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Surbhi hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Surbhi hospital
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.216442,28.649135</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Bhardwaj Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Bhardwaj Hospital
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.335578,28.566039</coordinates></Point></Placemark>
+		<Placemark>
+			<name>NMC Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> NMC Hospital
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.340299,28.572925</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Kailash Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Kailash Hospital
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.331414,28.577404</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Somdatt Medical</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Somdatt Medical
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.276622,28.629361</coordinates></Point></Placemark>
+		<Placemark>
+			<name>R K Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> R K Hospital
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.286801,28.617904</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Dr. Shyama Prasad Mukherjee Chest Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Dr. Shyama Prasad Mukherjee Chest Hospital
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.289899,28.614021</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Max Superspeciality Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Max Superspeciality Hospital
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.308937,28.633143</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Deepak Memorial Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Deepak Memorial Hospital
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.300832,28.645246</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Shanti Mukand Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Shanti Mukand Hospital
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.301604,28.645804</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Yashoda Multispeciality Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Yashoda Multispeciality Hospital
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.328787,28.645135</coordinates></Point></Placemark>
+		<Placemark>
+			<name>A One Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> A One Hospital
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.098116,28.67882</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Maharaja Agrasen Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Maharaja Agrasen Hospital
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.134057,28.674059</coordinates></Point></Placemark>
+		<Placemark>
+			<name>MGS Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> MGS Hospital
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.134639,28.673903</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Asha kiran mental hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Asha kiran mental hospital
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.095886,28.702813</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Tamish</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Tamish
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.104541,28.699593</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Jaipur Golden Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Jaipur Golden Hospital
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.109381,28.697576</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Saroj hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Saroj hospital
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.128982,28.706027</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Ayurvedic Mental Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Ayurvedic Mental Hospital
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.149799,28.723786</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Dr. Indra Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Dr. Indra Hospital
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.0354,28.79801</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Saint soham hospital private</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Saint soham hospital private
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.035272,28.798367</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Dr. Rajeev Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Dr. Rajeev Hospital
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.035379,28.800698</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Government hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Government hospital
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.037439,28.801263</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Surya Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Surya Hospital
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.285853,28.662999</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Ojjus Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Ojjus Hospital
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.359524,28.56549</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Sumitra Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Sumitra Hospital
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.35291,28.581866</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Prakash Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Prakash Hospital
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.349403,28.585488</coordinates></Point></Placemark>
+		<Placemark>
+			<name>National Institute of Biologicals</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> National Institute of Biologicals
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.358548,28.627833</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Fortis hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Fortis hospital
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.372469,28.618617</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.360715,28.639392</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Eye7 Chaudhary Eye Centre</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Eye7 Chaudhary Eye Centre
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.373357,28.639524</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Shanti Gopal Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Shanti Gopal Hospital
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.379267,28.641822</coordinates></Point></Placemark>
+		<Placemark>
+			<name>awasthi hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> awasthi hospital
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.371386,28.652631</coordinates></Point></Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.439258,28.662283</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Prem Hospital IVF and Surrogacy Center</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Prem Hospital IVF and Surrogacy Center
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.725706,28.949617</coordinates></Point></Placemark>
+		<Placemark>
+			<name>आनन्दित</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> आनन्दित
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.729607,28.954662</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Dr. Atul Gupta, Physician</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Dr. Atul Gupta, Physician
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.73028,28.958981</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Dr. Punjani</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Dr. Punjani
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.730593,28.961705</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Dr. Sanjay Goel, Physician</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Dr. Sanjay Goel, Physician
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.731364,28.961858</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Sumit Nursing Home</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Sumit Nursing Home
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.729767,28.963102</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Madhu Nursing Home</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Madhu Nursing Home
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.730353,28.966682</coordinates></Point></Placemark>
+		<Placemark>
+			<name>Lokpriya Hospital</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>description:</b> hospital<br>
+<b>name:</b> Lokpriya Hospital
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData/><Point><coordinates>77.730698,28.968655</coordinates></Point></Placemark>
+	</Document>
+</kml>

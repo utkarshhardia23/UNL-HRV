@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="postal" id="postal">
+	<SimpleField name="Description" type="string"></SimpleField>
+</Schema>
+<Folder><name>postal</name>
+  <Placemark>
+	<name>South City II Post Office</name>
+	<description>post_office</description>
+      <Point><coordinates>77.0436967,28.416425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>South City II Post Office</name>
+	<description>post_office</description>
+      <Point><coordinates>77.0506999,28.4170701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>post_box</description>
+      <Point><coordinates>77.0332968,28.4563163</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>post_office</description>
+      <Point><coordinates>77.0315003,28.4620809</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>post_office</description>
+      <Point><coordinates>77.0480053,28.473206</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>post_office</description>
+      <Point><coordinates>77.0479624,28.473621</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sec-56 Post Office</name>
+	<description>post_office</description>
+      <Point><coordinates>77.1031772,28.4226886</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>post_office</description>
+      <Point><coordinates>77.0813715,28.4670246</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Post Office</name>
+	<description>post_office</description>
+      <Point><coordinates>77.3208347,28.4357082</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>post_office</description>
+      <Point><coordinates>76.9073555,28.570349</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Najafgarh Post Office</name>
+	<description>post_office</description>
+      <Point><coordinates>76.98443,28.6071611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>post_box</description>
+      <Point><coordinates>77.0516152,28.4841096</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>post_box</description>
+      <Point><coordinates>77.0623935,28.5588615</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Arjangarh</name>
+	<description>post_box</description>
+      <Point><coordinates>77.1209508,28.4787294</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Postbox</name>
+	<description>post_box</description>
+      <Point><coordinates>77.107998,28.4923981</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>post_box</description>
+      <Point><coordinates>77.1676261,28.510203</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>post_box</description>
+      <Point><coordinates>77.1637209,28.5571803</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>post_office</description>
+      <Point><coordinates>77.0802202,28.5892805</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Singhania Insurance &amp; Wealth Managment</name>
+	<description>post_office</description>
+      <Point><coordinates>77.0802312,28.5892881</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>post_box</description>
+      <Point><coordinates>77.1656027,28.5672852</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>post_box</description>
+      <Point><coordinates>77.0915007,28.6197189</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>post_box</description>
+      <Point><coordinates>77.0912218,28.6300588</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>post_box</description>
+      <Point><coordinates>77.2464706,28.5122445</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>post_office</description>
+      <Point><coordinates>77.2809165,28.5357637</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Post Office</name>
+	<description>post_office</description>
+      <Point><coordinates>77.2682749,28.5618567</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Netaji Nagar Post Office</name>
+	<description>post_box</description>
+      <Point><coordinates>77.1872498,28.5744997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>B Block South Motibagh</name>
+	<description>post_office</description>
+      <Point><coordinates>77.1726168,28.5808948</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Head Post Office (GPO)</name>
+	<description>post_office</description>
+      <Point><coordinates>77.219296,28.5895467</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>post_box</description>
+      <Point><coordinates>77.2091588,28.6281407</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>post_box</description>
+      <Point><coordinates>77.1723304,28.645835</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>post_office</description>
+      <Point><coordinates>77.1810832,28.6464118</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>post_box</description>
+      <Point><coordinates>77.2193168,28.628538</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>post_office</description>
+      <Point><coordinates>77.2179338,28.6328773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>post_box</description>
+      <Point><coordinates>77.2204138,28.6319007</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pahar Ganj 110055</name>
+	<description>post_office</description>
+      <Point><coordinates>77.2130306,28.6398522</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>post_box</description>
+      <Point><coordinates>77.2746349,28.5658843</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Post Office</name>
+	<description>post_office</description>
+      <Point><coordinates>77.3155981,28.5797469</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shrimate Surveillance System</name>
+	<description>post_office</description>
+      <Point><coordinates>77.303731,28.6260694</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>post_box</description>
+      <Point><coordinates>77.1047119,28.6747317</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Keshav Puram Post Office</name>
+	<description>post_office</description>
+      <Point><coordinates>77.1574257,28.691496</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bawana post office 110039</name>
+	<description>post_box</description>
+      <Point><coordinates>77.0356267,28.8018078</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>DCE Post Office</name>
+	<description>post_office</description>
+      <Point><coordinates>77.1182488,28.7476158</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shailendra shrivastav</name>
+	<description>post_box</description>
+      <Point><coordinates>77.281627,28.7053077</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Burari</name>
+	<description>post_office</description>
+      <Point><coordinates>77.194833,28.753882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Khatri home</name>
+	<description>post_office</description>
+      <Point><coordinates>77.0883327,28.8531508</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sector 41 Post Office</name>
+	<description>post_office</description>
+      <Point><coordinates>77.3630965,28.5652902</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>post_box</description>
+      <Point><coordinates>77.3715254,28.6388901</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>post_box</description>
+      <Point><coordinates>77.3842451,28.6780694</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
